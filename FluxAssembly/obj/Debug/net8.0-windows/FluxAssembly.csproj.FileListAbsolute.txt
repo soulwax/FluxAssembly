@@ -18,3 +18,4 @@ D:\Code\C#\RiderSolutions\Flux\FluxAssembly\obj\Debug\net8.0-windows\refint\Flux
 D:\Code\C#\RiderSolutions\Flux\FluxAssembly\obj\Debug\net8.0-windows\FluxAssembly.pdb
 D:\Code\C#\RiderSolutions\Flux\FluxAssembly\obj\Debug\net8.0-windows\FluxAssembly.genruntimeconfig.cache
 D:\Code\C#\RiderSolutions\Flux\FluxAssembly\obj\Debug\net8.0-windows\ref\FluxAssembly.dll
+D:\Code\C#\RiderSolutions\Flux\FluxAssembly\obj\Debug\net8.0-windows\FluxAssembly.sourcelink.json

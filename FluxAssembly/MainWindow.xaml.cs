@@ -50,6 +50,12 @@ namespace FluxAssembly
             // You can call your game engine's render function(s) here.
             
             frameCounter++;   // Increase frame counter each time a frame is rendered
+            // Display counter on top left
+            Title = $"FPS: {frameCounter}";
+            frameCounter = 0;
+            lastTime = DateTime.Now;
+            TimeSpan deltaTime = DateTime.Now - lastTime;
+            lastTime = DateTime.Now;    
         }
 
         private void PrintFPS(object sender, EventArgs e)
